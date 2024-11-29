@@ -1,0 +1,22 @@
+body {
+  background-color: #f8f9fa;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.custom-heading {
+  font-size: 2rem;
+  color: #007bff;
+}
+
+.foto-curriculo {
+  width: 25%;
+  margin-top: 20px;
+}
+
+body {
+  background-color: #000080;
+}
