@@ -1,0 +1,22 @@
+/* Contact.css */
+.contact-container {
+  padding: 20px;
+  text-align: center;
+}
+
+.contact-title {
+  font-size: 3em; /* Ajuste conforme necessário */
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.contact-info {
+  display: flex;
+  justify-content: center;
+  gap: 40px; /* Espaçamento entre os itens */
+  font-size: 1.5em; /* Aumentado o tamanho da fonte */
+}
+
+.contact-info p {
+  margin: 0;
+}

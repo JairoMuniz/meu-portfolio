@@ -1,0 +1,27 @@
+/* Home.css */
+.home-title {
+    font-size: 3em; /* Ajuste conforme necessário */
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .home-description {
+    font-size: 1.5em; /* Diminuído de 2.5em para 1.5em */
+    margin-bottom: 20px;
+    color: #666;
+  }
+  
+  .nav-link {
+    font-size: 1.5em; /* Ajuste conforme necessário */
+    color: #007bff; /* Cor azul permanente */
+  }
+  
+  .nav-link:hover {
+    color: #0056b3; /* Cor azul mais escura ao passar o mouse */
+  }
+  
+  .foto-curriculo {
+    height: auto;
+    border-radius: 50%;
+    margin-top: 20px;
+  }
